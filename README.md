@@ -1,5 +1,5 @@
 <h1 align="center">
-    [<img src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hi,+There!+👋;I'm+Shubham....;Nice+to+meet+you!&center=true&size=30">](https://git.io/typing-svg){:target="_blank" rel="noopener"}
+    <img src="https://readme-typing-svg.herokuapp.com?font=dank+mono&color=77D970&lines=Hi,+There!+👋;I'm+Shubham....;Nice+to+meet+you!&center=true&size=30">
   
 </h1>
 <!-- <div align="center">
