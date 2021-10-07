@@ -21,7 +21,7 @@
  <h2>Connect with Me!</h2>
 <tr>
   <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></code></td>
-  <td align="center"><code><img href="https://twitter.com/@shubhamku044" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></code></td>
+  <td align="center"><code><img href="https://twitter.com/@shubhamku044" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></code></td><td align="center"><code><img href="https://www.instagram.com/thelegitprogrammer/" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></code></td>
    </tr>
   <tr>
   <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a></code></td>
