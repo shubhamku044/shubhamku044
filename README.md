@@ -13,19 +13,19 @@
 -   🌱 I’m currently learning a lot of things
 -   🔭 I’m currently working on my technical skills
 -   👯 2021 Goals: Contribute more to Open Source projects
--   📫 How to reach me: <a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a>, <a href="https://www.instagram.com/thelegitprogrammer/" title="reach">Instagram</a>
+-   📫 How to reach me: <a href="https://www.linkedin.com/in/shubhamku044/" title="reach" target="_blank">Linkedin</a>, <a href="https://www.instagram.com/thelegitprogrammer/" target="_blank" title="reach">Instagram</a>
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: Technophile
 
 <table align="center">
  <h2>Connect with Me!</h2>
 <tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@shubhamku044" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href="https://www.instagram.com/thelegitprogrammer/"><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
+  <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
+  <td align="center"><code><a href="https://twitter.com/@shubhamku044"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href="https://www.instagram.com/thelegitprogrammer/" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
    </tr>
   <tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@shubhamku044" title="reach">Twitter</a></code></td><td align="center"><code><a href="https://www.instagram.com/thelegitprogrammer/" title="reach">Instagram</a></code></td>
+  <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/" title="reach" target="_blank" >Linkedin</a></code></td>
+  <td align="center"><code><a href="https://twitter.com/@shubhamku044" title="reach" target="_blank" >Twitter</a></code></td><td align="center"><code><a href="https://www.instagram.com/thelegitprogrammer/" title="reach">Instagram</a></code></td>
   </tr>
   </table>
 
@@ -36,50 +36,50 @@
   <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+      <a target="_blank"  href="https://en.wikipedia.org/wiki/C%2B%2B">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/">
+      <a target="_blank"  href="https://www.javascript.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org/">
+      <a target="_blank"  href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     </td>
     <td align="center" width="96">
-      <a href="https://reactjs.org/" >
+      <a target="_blank"  href="https://reactjs.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://redux.js.org/" >
+      <a target="_blank"  href="https://redux.js.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
       </a>
       <br>Redux
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
+      <a target="_blank"  href="https://tailwindcss.com/">
         <img src="https://raw.githubusercontent.com/Utkarsh1504/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" >
+      <a target="_blank"  href="https://git-scm.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
@@ -87,31 +87,31 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
+      <a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="https://ubuntu.com/" >
+      <a target="_blank"  href="https://ubuntu.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center"  width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
       </a>
       <br>CSS
     </td>
     <td align="center"  width="96">
-      <a href="https://www.linux.org/">
+      <a target="_blank"  href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/">
+      <a target="_blank"  href="https://docs.microsoft.com/en-us/powershell/">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
@@ -123,7 +123,7 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="https://www.figma.com/" >
+      <a target="_blank"  href="https://www.figma.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
       </a>
       <br>Figma
@@ -137,7 +137,7 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamku044&theme=react&border=61dafb&hide_border=true" alt="umishra" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamku044&theme=react&border=61dafb&hide_border=true" alt="shubhamku044" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shubhamku044&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
