@@ -13,7 +13,7 @@
 -   🌱 I’m currently learning a lot of things
 -   🔭 I’m currently working on my technical skills
 -   👯 2021 Goals: Contribute more to Open Source projects
--   📫 How to reach me: <a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a>
+-   📫 How to reach me: <a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a>, <a href="https://www.instagram.com/thelegitprogrammer/" title="reach">Instagram</a>
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: Technophile
 
@@ -25,7 +25,7 @@
    </tr>
   <tr>
   <td align="center"><code><a href="https://www.linkedin.com/in/shubhamku044/" title="reach">Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@shubhamku044" title="reach">Twitter</a></code></td>
+  <td align="center"><code><a href="https://twitter.com/@shubhamku044" title="reach">Twitter</a></code></td><td align="center"><code><a href="https://www.instagram.com/thelegitprogrammer/" title="reach">Instagram</a></code></td>
   </tr>
   </table>
 
