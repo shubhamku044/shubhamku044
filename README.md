@@ -11,7 +11,7 @@
 -   💻 I’m a web developer
 -   🌱 I’m currently learning a lot of things
 -   🔭 I’m currently working on my technical skills
--   👯 2021 Goals: Contribute more to Open Source projects
+-   👯 2022 Goals: Contribute more to Open Source projects
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: Technophile
