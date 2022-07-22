@@ -8,7 +8,7 @@
 
 ## About me!
 
--   💻 I’m a web developer
+-   💻 I’m a Full Stack Web Developer
 -   🌱 I’m currently learning a lot of things
 -   🔭 I’m currently working on my technical skills
 -   👯 2022 Goals: Contribute more to Open Source projects
