@@ -146,3 +146,10 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=shubhamku044&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
+
+<div align=center>            
+   <a href="https://github.com/shubhamku044">
+   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
+   <img width=100% height=100% align="center" alt="Followers" src="https://raw.githubusercontent.com/shubhamku044/shubhamku044/main/followers.svg" />
+   </a>
+</div>
