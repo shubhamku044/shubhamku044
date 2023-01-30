@@ -144,5 +144,5 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku044&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamku044" width="100%" alt="github activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamku044&theme=github-compact" width="100%" alt="github activity graph"/>
 </p>
