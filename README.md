@@ -134,5 +134,5 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku044&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=shubhamku044&theme=github-compact](https://github-readme-activity-graph.vercel.app/graph?username=shubhamku044&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" width="100%" alt="github activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamku044&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
 </p>
