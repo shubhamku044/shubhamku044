@@ -50,6 +50,18 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <a target="_blank"  href="https://www.rust-lang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <a target="_blank"  href="https://reactjs.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
@@ -60,6 +72,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
       </a>
       <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://www.docker.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a target="_blank"  href="https://tailwindcss.com/">
@@ -87,12 +105,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
       <a target="_blank"  href="https://ubuntu.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
@@ -129,8 +141,6 @@
       <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamku044&theme=react&border=61dafb&hide_border=true" alt="shubhamku044" />
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=shubhamku044&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-  <br />
-  <br />
   <br />
   <div align=center>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku044&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
