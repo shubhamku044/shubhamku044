@@ -8,13 +8,11 @@
 
 ## About me!
 
--   💻 I’m a Full Stack Web Developer
--   🌱 I’m currently rust language
+-   💻 I’m a Full Stack Developer
+-   🌱 I’m currently learning rust
 -   🔭 I’m currently working on my technical skills
 -   👯 2023 Goals: Contribute more to Open Source projects
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
--   😄 Pronouns: He/Him
--   ⚡ Fun fact: Technophile
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
 
@@ -85,6 +83,8 @@
       </a>
       <br>Tailwind CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
@@ -102,14 +102,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank"  href="https://ubuntu.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a target="_blank"  href="https://www.linux.org/">
