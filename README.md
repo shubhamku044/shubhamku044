@@ -9,7 +9,7 @@
 ## About me!
 
 -   💻 I’m a Full Stack Web Developer
--   🌱 I’m currently go language
+-   🌱 I’m currently rust language
 -   🔭 I’m currently working on my technical skills
 -   👯 2023 Goals: Contribute more to Open Source projects
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
@@ -126,10 +126,12 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamku044&theme=react&border=61dafb&hide_border=true" alt="shubhamku044" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shubhamku044&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamku044&theme=react&border=61dafb&hide_border=true" alt="shubhamku044" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=shubhamku044&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br />
+  <br />
+  <br />
   <div align=center>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamku044&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
