@@ -9,9 +9,9 @@
 ## About me!
 
 -   💻 I’m a Full Stack Developer
--   🌱 I’m currently learning rust
+-   🌱 I’m currently learning Go, Web3
 -   🔭 I’m currently working on my technical skills
--   👯 2023 Goals: Contribute more to Open Source projects
+-   👯 2024 Goals: Contribute more to Open Source projects, Become a web3 developer
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
@@ -48,10 +48,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a target="_blank"  href="https://www.rust-lang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <a target="_blank"  href="https://go.dev/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
-      <br>Rust
+      <br>Go
     </td>
     <td align="center" width="96">
       <a target="_blank"  href="https://www.python.org/">
