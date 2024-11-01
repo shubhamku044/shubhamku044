@@ -14,7 +14,7 @@
 -   👯 2024 Goals: Contribute more to Open Source projects, Become a web3 developer
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 <table align="center">
  <h2>Connect with Me!</h2>
