@@ -9,12 +9,12 @@
 ## About me!
 
 -   💻 I’m a Full Stack Developer
--   🌱 I’m currently learning Go, Web3
+-   🌱 I’m currently learning Go
 -   🔭 I’m currently working on my technical skills
 -   👯 2024 Goals: Contribute more to Open Source projects, Become a web3 developer
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
 
 <table align="center">
  <h2>Connect with Me!</h2>
