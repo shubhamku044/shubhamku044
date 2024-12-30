@@ -8,11 +8,11 @@
 
 ## About me!
 
--   💻 I’m a Full Stack Developer
--   🌱 I’m currently learning Go
--   🔭 I’m currently working on my technical skills
--   👯 2024 Goals: Contribute more to Open Source projects, Become a web3 developer
--   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
+- 💻 I’m a Full Stack Developer
+- 🌱 I’m currently learning _Blockchain Development_
+- 🔭 I’m currently working on my technical skills
+- 👯 2025 Goals: Contribute more to Open Source projects, Become a blockchain developer
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
 
@@ -29,7 +29,6 @@
 </table>
 
   <br>
- 
 
 <h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
 
@@ -65,6 +64,30 @@
       </a>
       <br>React
     </td>
+    <!-- <td align="center" width="96">
+      <a target="_blank"  href="https://vuejs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vue-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://nuxt.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Nuxt
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://nextjs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Next
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://kubernetes.io/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Kubernetes
+    </td> -->
     <td align="center" width="96">
       <a target="_blank"  href="https://redux.js.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
