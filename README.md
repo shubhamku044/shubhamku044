@@ -9,9 +9,8 @@
 ## About me!
 
 - 💻 I’m a Full Stack Developer
-- 🌱 I’m currently learning _Blockchain Development_
 - 🔭 I’m currently working on my technical skills
-- 👯 2025 Goals: Contribute more to Open Source projects, Become a blockchain developer
+- 👯 2025 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubhamku044/), [Instagram](https://www.instagram.com/thelegitprogrammer/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgbhxrmouetvccldhrwg7u3upa&redirect=true)
